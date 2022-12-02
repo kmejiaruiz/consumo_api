@@ -1,5 +1,5 @@
 <template>
-  <div style="background: #000">
+  <div style="background: #000;">
     <div
       class="container-fluid"
       style="
@@ -7,12 +7,11 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        flex-direction: column;
       "
     >
-      <div class="notification is-success is-light propio">
-        <strong>P&aacute;gina en fase de pruebas</strong> Agradecemos su
-        comprension
+      <div class="notification is-danger is-light propio">
+        <strong>P&aacute;gina en construcci&oacute;n</strong>
+        Lamentamos las molestias.
       </div>
     </div>
   </div>
