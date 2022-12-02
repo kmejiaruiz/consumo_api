@@ -1,4 +1,4 @@
-# oscar-vue
+# test
 
 ## Project setup
 ```
